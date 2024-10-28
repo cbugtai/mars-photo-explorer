@@ -1,0 +1,12 @@
+.photosContainer{
+    display: flex
+    flex
+}
+
+h1 {
+    background-color: navy;
+    color: white;
+    padding: 40px;
+    text-align: center;
+    border: 2px, solid, grey;
+}
